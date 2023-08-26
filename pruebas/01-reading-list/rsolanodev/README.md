@@ -9,3 +9,7 @@ This template should help get you started developing with Vue 3 in Vite. The tem
 ## Demo
 
 Project deployed in Vercel [pruebas-tecnicas-ebon.vercel.app](https://pruebas-tecnicas-ebon.vercel.app/)
+
+## Run tests
+
+For the testing framework that uses Vitest, run the `npm run test` command to ensure everything works as it should.
